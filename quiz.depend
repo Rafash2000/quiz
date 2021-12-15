@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1600040302 source:d:\programowanie\c++\programowanie obiektowe\quiz\main.cpp
+	<iostream>
+	"pytanie.h"
+	<windows.h>
+	<cstdlib>
+
+1600040053 source:d:\programowanie\c++\programowanie obiektowe\quiz\pytanie.cpp
+	<iostream>
+	"pytanie.h"
+	<fstream>
+	<cstdlib>
+
+1600037071 d:\programowanie\c++\programowanie obiektowe\quiz\pytanie.h
+	<iostream>
+
